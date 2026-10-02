@@ -28,7 +28,7 @@ jobs:
 
   security:
     name: Security
-    uses: CyberSinclair/ci-workflows/.github/workflows/security.yml@b29c53b96eb1ddac5f3b348deea6c88570c1464f # v1.1.1
+    uses: CyberSinclair/ci-workflows/.github/workflows/security.yml@fa7fc60471579f10cfb68cb1708ada63af94a999 # v1.2.0
     permissions:
       actions: read
       contents: read
